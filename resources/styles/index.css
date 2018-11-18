@@ -1,0 +1,28 @@
+.content-grid {
+    width: 60%;
+    background: #ECE9E6;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #eeeeee, #f9f6f3);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #eeeeee, #faf7f4); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    margin: 3vw 0 0 1vw;
+    position: relative;
+    border-bottom: 3px solid #ffbb26;
+    border-left: 1px solid #f0f0f0;
+
+}
+
+.homepage-text {
+    padding: 6vh;
+}
+.homepage-header {
+    color: #2193b0;
+    font-size: 3vh;
+    margin-bottom: 6vh;
+}
+
+.homepage-body-text {
+    line-height: 2.5vh;
+    width: 50%;
+    font-size: 1.8vh;
+    margin-bottom: 6vh;
+    color: #4a4a4a;
+}

@@ -1,0 +1,15 @@
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+    margin: 1vw 0 1vw 1vw;
+    width: 60%;
+    background: #FDC830;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #f39a3c, #FDC830);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #f3903b, #FDC830);
+}
+
+.footer-item {
+    font-size: 1.8vh;
+    padding: 5vh 1vh 1vh 1vh;
+    color: #fff;
+}
